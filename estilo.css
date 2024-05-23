@@ -1,0 +1,43 @@
+.info{
+    width:90%;
+    height:auto;
+    background:#c7ffed;
+    margin:5% auto;
+    padding: 20px;
+    border-radius:20px;
+}
+.info.titulo{
+    color:black;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-large; 
+    text-align: center;
+    font-weight: bolder; 
+    border-bottom: 2px black dashed;
+}
+.info.nombre{
+        color:black;
+        font-family: "Roboto", sans-serif;
+        font-size: xx-large; 
+        font-weight: bolder; 
+        border-bottom: 2px black dashed;
+}
+.info.apellido{
+    color:black;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-large; 
+    font-weight: bolder; 
+    border-bottom: 2px black dashed;
+}
+.info.edad{
+    color:black;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-large; 
+    font-weight: bolder; 
+    border-bottom: 2px black dashed;
+}
+.info.correo{
+    color:black;
+    font-family: "Roboto", sans-serif;
+    font-size: xx-large; 
+    font-weight: bolder; 
+    border-bottom: 2px black dashed;}
